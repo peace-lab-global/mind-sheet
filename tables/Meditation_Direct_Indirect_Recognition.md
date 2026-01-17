@@ -34,4 +34,5 @@
 | **临终关怀/生命末期** | **纯直接路径**。 | 此时已无时间渐进，需直契本源。 | 需极高的信任与交托。 |
 
 ---
-*Created by Mind Sheet Project*
+*Created by Peace Lab Database Project*
+*Author: Allen Galler (allengaller@gmail.com)*

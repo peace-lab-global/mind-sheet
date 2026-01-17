@@ -32,4 +32,5 @@
 | **全面整合** | 人格整合。 | 将觉知融入所有破碎的体验。 | 活在实相中。 | 碎片的自然消融，不再有“疗愈”的必要。 |
 
 ---
-*Created by Mind Sheet Project*
+*Created by Peace Lab Database Project*
+*Author: Allen Galler (allengaller@gmail.com)*

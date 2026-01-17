@@ -34,4 +34,5 @@
 | **服食** | **微量元素与草本补充**。 | 纠正由于环境导致的矿物质失衡。 | 核心不在于“吃金子”，而在于调节生物酶的催化效率。 |
 
 ---
-*Created by Mind Sheet Project*
+*Created by Peace Lab Database Project*
+*Author: Allen Galler (allengaller@gmail.com)*

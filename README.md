@@ -1,4 +1,4 @@
-# Holistic Healing Knowledge Base (身心疗愈知识库)
+# Peace Lab Database (平静实验室知识库)
 
 这是一个专业的、多维度的身心疗愈知识体系，跨越地理与时代的界限，整合了古代智慧与现代科学。项目通过严谨的表格化结构，系统梳理了瑜伽、禅宗、道家、心理学及各类生物与艺术疗愈手段。
 
@@ -193,4 +193,5 @@
 - **专业驱动 (Professional):** 所有内容均附带专业视角 (Professional Perspective) 或 专家建议 (Expert Insight)。
 
 ---
-*Created by Mind Sheet Project*
+*Created by Peace Lab Database Project*
+*Author: Allen Galler (allengaller@gmail.com)*

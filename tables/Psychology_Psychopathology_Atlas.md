@@ -34,4 +34,5 @@
 | **处理策略** | 降能、接地、营养支持、资深导师。 | 强制医疗、药物干预、安全性监护。 | **干预强度**。 |
 
 ---
-*Created by Mind Sheet Project*
+*Created by Peace Lab Database Project*
+*Author: Allen Galler (allengaller@gmail.com)*

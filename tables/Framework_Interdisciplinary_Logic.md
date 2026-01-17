@@ -36,5 +36,6 @@
 | **能量动力学** | 热力学、生物化学、内丹学。 | 熵减与生命秩序的维持。 | 定义“精神能”与“生物能”的转换效率。 | 生命是远离平衡态的耗散结构，修行旨在优化能量流动。 |
 
 ---
-*Created by Mind Sheet Project*
+*Created by Peace Lab Database Project*
+*Author: Allen Galler (allengaller@gmail.com)*
 

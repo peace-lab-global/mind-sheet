@@ -122,4 +122,5 @@
 | **后期：智慧拓展** | 存在意义探索、意识觉醒。 | 直接认知 + 斯多葛生活方式 + 禅宗美学。 | 灵性逃避 (Spiritual Bypassing)。 | 强调“入鄽垂手”：在日常琐事中验证觉知。 |
 
 ---
-*Created by Mind Sheet Project*
+*Created by Peace Lab Database Project*
+*Author: Allen Galler (allengaller@gmail.com)*

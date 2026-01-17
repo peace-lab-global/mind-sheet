@@ -34,4 +34,5 @@
 | **智力陷阱** | **Intellectualization** | 用概念代替直接体验。 | “言语道断”。 | 哪怕最神圣的经文，也只是指月之指。 |
 
 ---
-*Created by Mind Sheet Project*
+*Created by Peace Lab Database Project*
+*Author: Allen Galler (allengaller@gmail.com)*

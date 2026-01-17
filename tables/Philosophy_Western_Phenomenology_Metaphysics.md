@@ -41,4 +41,5 @@
 | **离解障碍** | 向世界投射的“自然态度”彻底破碎。 | 练习受控的“悬置”与“还原”。 | 将离解转化为主动的现象学还原。 |
 
 ---
-*Created by Mind Sheet Project*
+*Created by Peace Lab Database Project*
+*Author: Allen Galler (allengaller@gmail.com)*

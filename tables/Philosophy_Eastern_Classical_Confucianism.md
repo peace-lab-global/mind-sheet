@@ -44,4 +44,5 @@
 | **盲目从众** | 丧失“独立人格”，沦为“乡愿”。 | 慎独、确立志向。 | 自我效能感与自主性提升。 |
 
 ---
-*Created by Mind Sheet Project*
+*Created by Peace Lab Database Project*
+*Author: Allen Galler (allengaller@gmail.com)*

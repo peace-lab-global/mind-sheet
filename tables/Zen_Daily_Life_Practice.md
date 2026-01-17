@@ -32,4 +32,5 @@
 | **睡觉** | 以时寝息，当愿众生，身得安隐，心无乱惑。 | **全然放松**。 | 解决入睡困难。 |
 
 ---
-*Created by Mind Sheet Project*
+*Created by Peace Lab Database Project*
+*Author: Allen Galler (allengaller@gmail.com)*

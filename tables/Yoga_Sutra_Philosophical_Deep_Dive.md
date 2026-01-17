@@ -35,4 +35,5 @@
 | **入定 (Dhyana)** | 认知流融合。 | 感到与生活疏离、缺乏存在感。 | 将专注力延续 12 分钟以上，直到产生沉浸。 |
 
 ---
-*Created by Mind Sheet Project*
+*Created by Peace Lab Database Project*
+*Author: Allen Galler (allengaller@gmail.com)*

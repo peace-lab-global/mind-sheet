@@ -25,4 +25,5 @@
 | **兼中到** | 归本源 | 圆满觉悟；不留痕迹。 | 真正的“平常心”，不再有君臣之分。 | 十牛图第十阶段的映射。 |
 
 ---
-*Created by Mind Sheet Project*
+*Created by Peace Lab Database Project*
+*Author: Allen Galler (allengaller@gmail.com)*

@@ -31,4 +31,5 @@
 | **关怀** | **仁 (Humanity)** | **悲 (Compassion)** | **德 (Virtue)** | 与整体生命的一体感。 |
 
 ---
-*Created by Mind Sheet Project*
+*Created by Peace Lab Database Project*
+*Author: Allen Galler (allengaller@gmail.com)*

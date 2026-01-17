@@ -33,4 +33,5 @@
 | **敕符** | Empowering | 注入念力或特定的声学振动。 | 赋予物质量产件以灵性生命。 |
 
 ---
-*Created by Mind Sheet Project*
+*Created by Peace Lab Database Project*
+*Author: Allen Galler (allengaller@gmail.com)*

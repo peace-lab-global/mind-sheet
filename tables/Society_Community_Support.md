@@ -62,5 +62,6 @@
 | **胜任力边界** | 只在自己受训并合格的领域内执业。 | 误诊、误导、医疗事故。 | 承认自己的局限是最高级的专业素养。 |
 
 ---
-*Created by Mind Sheet Project*
+*Created by Peace Lab Database Project*
+*Author: Allen Galler (allengaller@gmail.com)*
 

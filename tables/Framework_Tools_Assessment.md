@@ -47,4 +47,5 @@
 | **意义感** | **MLQ** (生命意义问卷) | 寻找意义 vs. 拥有意义。 | 存在 24+ / 寻求 24+ | 寻求极高伴随存在极低 (存在主义危机)。 |
 
 ---
-*Created by Mind Sheet Project*
+*Created by Peace Lab Database Project*
+*Author: Allen Galler (allengaller@gmail.com)*

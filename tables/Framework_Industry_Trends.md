@@ -45,4 +45,5 @@
 | **意识观** | 脑的副产品。 | 宇宙的基本维度或协调场。 | 神经科学与量子物理碰撞。 | 非二元性 (Non-duality) 正在科学前沿合法化。 |
 
 ---
-*Created by Mind Sheet Project*
+*Created by Peace Lab Database Project*
+*Author: Allen Galler (allengaller@gmail.com)*

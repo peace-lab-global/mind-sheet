@@ -33,4 +33,5 @@
 | **不住法** | “法尚应舍，何况非法。” | 成功的经验（法）也要及时放下，不能成为枷锁。 | 企业转型中的思维零基构建。 |
 
 ---
-*Created by Mind Sheet Project*
+*Created by Peace Lab Database Project*
+*Author: Allen Galler (allengaller@gmail.com)*

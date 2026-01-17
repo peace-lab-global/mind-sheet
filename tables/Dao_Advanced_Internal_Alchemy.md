@@ -30,4 +30,5 @@
 | **本能转化** | 将原始欲念转化为创造性意志。 | 解决性成瘾或驱动力不足问题。 | 性力的升华路径。 |
 
 ---
-*Created by Mind Sheet Project*
+*Created by Peace Lab Database Project*
+*Author: Allen Galler (allengaller@gmail.com)*

@@ -31,4 +31,5 @@
 | **喜乐鞘** | **Anandamaya** | 核心自我的存在感。 | Samadhi (融合)。 | 终极的安宁与互即感。 |
 
 ---
-*Created by Mind Sheet Project*
+*Created by Peace Lab Database Project*
+*Author: Allen Galler (allengaller@gmail.com)*

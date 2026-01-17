@@ -26,4 +26,5 @@
 | **模仿肢体** | 举手、竖指、踏步。 | 具身认知的直接呈现。 | 所谓“神通并妙用，运水与搬柴”。 |
 
 ---
-*Created by Mind Sheet Project*
+*Created by Peace Lab Database Project*
+*Author: Allen Galler (allengaller@gmail.com)*

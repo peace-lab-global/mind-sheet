@@ -34,4 +34,5 @@
 | **情绪风暴** | Emotional Flooding | 潜意识装甲崩解。 | 心理咨询干预、建立稳定的安全场。 | 视之为清理过程。 |
 
 ---
-*Created by Mind Sheet Project*
+*Created by Peace Lab Database Project*
+*Author: Allen Galler (allengaller@gmail.com)*

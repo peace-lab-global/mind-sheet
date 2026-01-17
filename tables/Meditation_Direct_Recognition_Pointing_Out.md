@@ -33,4 +33,5 @@
 | **4. 确认与休息** | 引导学生在识别出的状态中休息。 | 不要试图去解释或描述它。 | 眼神变得清澈，整体气场变得稳健。 |
 
 ---
-*Created by Mind Sheet Project*
+*Created by Peace Lab Database Project*
+*Author: Allen Galler (allengaller@gmail.com)*

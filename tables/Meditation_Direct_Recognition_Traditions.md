@@ -41,4 +41,5 @@
 | **Adyashanti** | Zen / Non-dual | 直白、打破灵性幻想。 | “停止对事实的抵抗。” | 强调“不再寻找”。 |
 
 ---
-*Created by Mind Sheet Project*
+*Created by Peace Lab Database Project*
+*Author: Allen Galler (allengaller@gmail.com)*

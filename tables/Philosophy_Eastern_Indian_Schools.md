@@ -42,4 +42,5 @@
 | **意义虚无** | 缺乏 Apurva 的潜在感 (Mimamsa)。 | 建立神圣仪轨与仪式感，注入意愿。 | 通过仪式将琐事升华为神圣职责。 |
 
 ---
-*Created by Mind Sheet Project*
+*Created by Peace Lab Database Project*
+*Author: Allen Galler (allengaller@gmail.com)*

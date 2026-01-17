@@ -43,4 +43,5 @@
 | **晚期疾病** | 预事磨练：与死亡共舞。 | 寻找“最后一份自由”：我的态度。 | 维护个体的最后尊严与精神完整性。 |
 
 ---
-*Created by Mind Sheet Project*
+*Created by Peace Lab Database Project*
+*Author: Allen Galler (allengaller@gmail.com)*

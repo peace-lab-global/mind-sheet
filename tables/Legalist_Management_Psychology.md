@@ -59,4 +59,5 @@
 | **明察秋毫** | **Ming Cha** | 对细微变化保持高度警惕。 | 能够感知“千里之堤”开始渗水的瞬间。 | 法家领导者需要极致的洞察力训练。 |
 
 ---
-*Created by Mind Sheet Project*
+*Created by Peace Lab Database Project*
+*Author: Allen Galler (allengaller@gmail.com)*

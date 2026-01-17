@@ -32,4 +32,5 @@
 | **第十：入鄽垂手** | 回归地摊，帮助他人。 | 极大的实用主义与慈悲，不再有“修行者”的外形。 | **大隐隐于市**。 |
 
 ---
-*Created by Mind Sheet Project*
+*Created by Peace Lab Database Project*
+*Author: Allen Galler (allengaller@gmail.com)*

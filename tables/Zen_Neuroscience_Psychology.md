@@ -33,4 +33,5 @@
 | **世界虚幻** | 对空性的深度洞察，但不离生活。 | 感到现实不真实，伴随焦虑。 | **效能感**：禅修态提升生活效能，病理态降低之。 |
 
 ---
-*Created by Mind Sheet Project*
+*Created by Peace Lab Database Project*
+*Author: Allen Galler (allengaller@gmail.com)*
