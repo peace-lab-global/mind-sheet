@@ -183,9 +183,29 @@
 - [冥想概论与通识 (General Meditation)](tables/Meditation_General.md) - 通识知识与基础理论
 - [职场、创意与社会应用 (Meditation Applications)](tables/Meditation_Applications.md) - 实践案例与应用场景
 
+**现代正念疗法体系 (Modern Mindfulness-Based Interventions):**
+- [超觉静坐 (Transcendental Meditation, TM)](tables/Transcendental_Meditation.md) - Maharishi咒语冥想、超越意识、心血管健康、默祷系统化
+- [瑜伽休息术 (Yoga Nidra)](tables/Yoga_Nidra.md) - 意识睡眠、Satyananda与iRest系统、创伤疗愈、Sankalpa意图设定
+- [内观禅修 (Vipassana Meditation)](tables/Vipassana_Meditation.md) - 四念处、身受心法、Goenka/Mahasi传承、10日课程、监狱应用
+- [躯体体验疗法 (Somatic Experiencing, SE)](tables/Somatic_Experiencing_Therapy.md) - Peter Levine创伤释放、调节窗口、滴定法、多迷走神经理论
+- [慈悲聚焦疗法 (Compassion-Focused Therapy, CFT)](tables/Compassion_Focused_Therapy.md) - Paul Gilbert三圈系统、羞耻疗愈、慈悲意象、自我批评转化
+- [辩证行为疗法 (Dialectical Behavior Therapy, DBT)](tables/Dialectical_Behavior_Therapy.md) - Marsha Linehan正念技能、情绪调节、痛苦承受、人际效能、边缘性人格
+- [正念认知疗法 (Mindfulness-Based Cognitive Therapy, MBCT)](tables/Mindfulness_Based_Cognitive_Therapy.md) - 抑郁复发预防、去中心化、三分钟呼吸空间、差别激活假说
+- [正念减压疗法 (Mindfulness-Based Stress Reduction, MBSR)](tables/Mindfulness_Based_Stress_Reduction.md) - Jon Kabat-Zinn八周课程、身体扫描、全灾难生活、七种正念态度
+
 **传统教导体系 (Traditional Teaching Systems):**
 - [克里希那穆提教导 (Krishnamurti Teachings)](tables/Krishnamurti_Teachings.md) - 无选择觉察、自由与洞察
 - [南怀瑾先生教导与实修 (Nan Huai-Chin's Teachings)](tables/Nan_Huaijin_Teachings.md) - 儒释道融通、实修方法
+
+**创伤干预核心技术 (Core Trauma Intervention Techniques):**
+- [接地技术 (Grounding Techniques)](tables/Grounding_Techniques.md) - 将注意力带回当下身体和物理现实的技术，创伤和解离治疗的稳定化核心
+- [容器化技术 (Containment Techniques)](tables/Containment_Techniques.md) - 暂时隔离困难情绪和记忆的心理技术，防止淹没与情感耗竭
+
+**正念与心流体系 (Mindfulness & Flow Systems):**
+- [正念核心概念与技术 (Mindfulness Core)](tables/Mindfulness_Core.md) - 正念的定义、历史、理论框架、核心技术、神经机制、测量工具与教学框架
+- [正念临床应用 (Mindfulness Clinical Applications)](tables/Mindfulness_Clinical_Applications.md) - 正念在精神障碍、慢性疾病、特殊人群中的循证应用与风险管理
+- [心流核心理论 (Flow State Core)](tables/Flow_State_Core.md) - Csikszentmihalyi心流理论、技能-挑战模型、神经科学机制、心流触发条件与测量
+- [心流临床应用与实践 (Flow Clinical Applications)](tables/Flow_Clinical_Applications.md) - 心流在心理治疗、教育、工作、运动中的应用及训练技术
 
 **直接认知系统 (Direct Recognition):**
 - [直接与间接认知冥想 (Direct & Indirect Recognition)](tables/Meditation_Direct_Indirect_Recognition.md) - 不二论基础
