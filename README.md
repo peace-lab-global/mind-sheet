@@ -92,6 +92,43 @@
 - [萨满疗愈与灵魂之旅 (Shamanic Journey)](tables/Wisdom_Shamanic_Healing_Journey.md)
 - [坛城与圣域空间 (Sacred Space/Mandala)](tables/Wisdom_Mandala_Sacred_Space_Therapy.md)
 
+**南传佛教专项 (Theravāda Buddhism System / 上座部佛教):**
+- [南传佛教概览 (Theravāda Overview)](Theravada_Overview.md) - 巴利经典、三藏结集、上座部传承、斯里兰卡/泰国/缅甸传统、三学体系、六道轮回、现代全球传播
+- [阿毗达摩心理学 (Abhidhamma Psychology)](Theravada_Abhidhamma.md) - 89/121心、52心所、28色法、24缘、心路过程、究竟法、俗谛胜义谛、现代心理学整合
+- [南传禅修阶次 (Meditation Stages)](Theravada_Meditation_Stages.md) - 40业处、四禅八定、16观智、7清净、道智果智、十结解脱、五种行者、止观双运
+- [南传内观传承 (Vipassanā Traditions)](Theravada_Vipassana_Traditions.md) - 马哈希/葛印卡/帕奥/阿姜查传承、十日课程、标记法、身受心法、现代全球传播
+
+**藏传佛教专项 (Tibetan Buddhism System / 金刚乘密宗):**
+- [藏传四大宗派详解 (Tibetan Schools Detailed)](Tibetan_Schools_Detailed.md) - 宁玛/噶举/萨迦/格鲁四派、九乘次第、祖师传承、核心见地、主要寺院、修行法门
+- [密续分类体系 (Tantra Classification)](Tibetan_Tantra_Classification.md) - 事续/行续/瑜伽续/无上瑜伽续、父续母续不二续、新译旧译、六续体系、生圆二次第
+- [本尊瑜伽 (Deity Yoga)](Tibetan_Deity_Yoga.md) - 本尊分类、三等持、生起次第、咒语持诵、观想技术、各派本尊系统、佛慢清净见
+- [前行法 (Ngöndro Preliminaries)](Tibetan_Ngondro_Preliminaries.md) - 四共前行/四不共前行、皈依大礼拜、金刚萨埵百字明、献曼达、上师瑜伽、十万遍修持
+- [金刚乘概览 (Vajrayāna Overview)](Vajrayana_Overview.md) - 三根本、四灌顶、三密、84大成就者、方便道、果乘特征、显密对比、现代传播
+- [灌顶与传承 (Initiation & Empowerment)](Vajrayana_Initiation_Empowerment.md) - 四灌顶详解、三昧耶戒、传承类型、上师资格、灌顶仪轨、各派灌顶特色、现代实践
+- [真言与陀罗尼 (Mantra & Dhāraṇī)](Vajrayana_Mantra_Dharani.md) - 咒语分类、种子字、六字大明咒、百字明、度母心咒、持咒方法、念珠使用、各派咒语
+- [手印与坛城 (Mudrā & Maṇḍala)](Vajrayana_Mudra_Mandala.md) - 四种手印、五方佛印、八供养印、坛城结构、沙画坛城、身坛城、献曼达、时轮坛城
+- [气脉明点体系 (Channels, Winds & Drops)](Tibetan_Channels_Winds_Drops.md) - 三脉五轮、五风十气、白红明点、拙火修法、风息入中脉、四喜四空、时轮六支瑜伽
+- [护法系统 (Dharma Protectors)](Tibetan_Dharma_Protectors.md) - 出世间/世间护法、玛哈嘎拉、吉祥天母、四大天王、护法仪轨、各派护法体系
+- [伏藏传统 (Terma Tradition)](Tibetan_Terma_Tradition.md) - 地伏藏/意伏藏、伏藏师、空行文字、龙钦宁提、敦珠新宝藏、五大伏藏师
+- [转世活佛制度 (Tulku System)](Tibetan_Tulku_System.md) - 化身理论、转世寻访、达赖喇嘛、班禅喇嘛、噶玛巴、坐床仪式、现代转世
+- [大手印详解 (Mahāmudrā Detailed)](Mahamudra_Detailed.md) - 心性三特质、四瑜伽十二品、帝洛巴六诀、冈波巴四法、止观双运、噶举传承
+
+**佛教核心教理体系 (Core Buddhist Doctrinal System):**
+- [佛教基础概论 (Buddhism Core Overview)](tables/Buddhism_Core_Overview.md) - 三宝、三法印、缘起十二因缘、五蕴、六道、三学、六度、八宗、佛教心理学、现代整合
+- [四圣谛与八正道 (Four Noble Truths & Eightfold Path)](tables/Buddhism_Four_Noble_Truths.md) - 苦集灭道四谛、三转十二行相、八正道详解、道谛与心理治疗整合
+- [止观禅修详表 (Samatha-Vipassana Meditation)](tables/Buddhism_Samatha_Vipassana.md) - 四十业处、九住心、四禅八定、四念处、十六观智、神经科学、临床应用
+- [唯识学与八识心王 (Yogācāra & Eight Consciousnesses)](tables/Buddhism_Yogacara_Consciousness.md) - 八识、五十一心所、种子熏习、三性四分、转识成智、心理治疗应用
+- [中观学与空性哲学 (Madhyamaka & Emptiness)](tables/Buddhism_Madhyamaka_Philosophy.md) - 八不中道、二谛、四句否定、龙树论证、空性观修、认知治疗整合
+- [净土宗修持 (Pure Land Practice)](tables/Buddhism_Pure_Land_Practice.md) - 三经、四十八愿、信愿行、四种念佛、临终关怀、助念指南
+- [南传佛教与阿毗达摩 (Theravāda & Abhidhamma)](tables/Buddhism_Theravada_Abhidhamma.md) - 八十九心、五十二心所、二十八色、二十四缘、心路过程、临床应用
+- [佛教戒律与伦理 (Buddhist Vinaya & Ethics)](tables/Buddhism_Vinaya_Ethics.md) - 五戒十善、比丘戒、菩萨戒、业力理论、忏悔心理学
+- [天台宗止观体系 (Tiantai Zhiguan System)](tables/Buddhism_Tiantai_Zhiguan.md) - 一念三千、三谛圆融、四种三昧、十境十乘、六即佛、教观双美
+- [华严宗法界缘起 (Huayan Dharmadhātu Philosophy)](tables/Buddhism_Huayan_Philosophy.md) - 四法界、十玄门、六相圆融、因陀罗网、事事无碍、五教判
+- [佛教经典疗愈导读 (Buddhist Sutras Healing Guide)](tables/Buddhism_Sutra_Healing_Guide.md) - 般若类(心经/金刚经)、净土类、禅定类、慈悲类、生活智慧类经典疗愈解读
+- [四无量心 (Four Immeasurables / Brahmavihāra)](tables/Buddhism_Four_Immeasurables.md) - 慈悲喜舍四梵住、近敌远敌、慈心禅次第、施受法、神经科学、CFT/MSC临床整合
+- [佛教正念与现代心理治疗整合 (Buddhist Mindfulness & Psychotherapy Integration)](tables/Buddhism_Mindfulness_Therapy_Integration.md) - 四念处与现代正念对应、MBSR/MBCT/ACT/DBT、佛教正念vs现代正念、神经科学、临床应用
+- [金刚乘基础入门 (Vajrayāna Foundation Introduction)](tables/Buddhism_Vajrayana_Foundation.md) - 三密、灌顶、本尊、四部密续、三根本、气脉明点、大手印、大圆满、四大宗派、学习指南
+
 **意念熏习转化心念体系 (Vāsanā Mind Transformation System):**
 - [熏习概览与核心术语 (Vāsanā Overview)](tables/Vasana_Overview.md) - 熏习核心概念、历史发展、八识结构、与现代心理学对话
 - [种子学说专题 (Seed Theory / Bīja-vāda)](tables/Vasana_Seed_Theory.md) - 种子六义、种子分类、种子与现行互动、本有新熏论争
@@ -282,13 +319,16 @@
 - [引导意象放松 (Guided Imagery)](tables/Relaxation_Guided_Imagery.md) - 安全场所、康复意象、GIM (引导意象与音乐)、意象排练、脚本设计
 - [应用性放松训练 (Applied Relaxation, AR)](tables/Relaxation_Applied_Training.md) - Öst应用性放松、快速放松、提示控制放松、差异放松、情境应用
 
-**直接认知系统 (Direct Recognition):**
-- [直接与间接认知冥想 (Direct & Indirect Recognition)](tables/Meditation_Direct_Indirect_Recognition.md) - 不二论基础
-- [不二论：直接认知核心 (Direct Recognition Foundations)](tables/Meditation_Direct_Recognition_Foundations.md) - 核心理论
-- [不二论：各派技术地图 (Direct Recognition Traditions)](tables/Meditation_Direct_Recognition_Traditions.md) - 传统地图
-- [直接认知：直指与现观技术 (Pointing-out & Direct Perception)](tables/Meditation_Direct_Recognition_Pointing_Out.md) - 直指技术
-- [直接认知疗愈与不二心理 (Direct Recognition Healing)](tables/Therapy_Direct_Recognition_Healing.md) - 疗愈应用
-- [直接认知：日常整合与伦理 (Daily Integration & Ethics)](tables/Meditation_Direct_Recognition_Daily_Integration.md) - 日常整合
+**直接认知系统 (Direct Recognition / Pratyabhijñā / प्रत्यभिज्ञा):**
+- [直接与间接认知完整对比 (Direct & Indirect Recognition Comparison)](tables/Meditation_Direct_Indirect_Recognition.md) - 两大修行路径哲学基础、修行方法、神经科学、心理学、临床应用、优势风险、整合策略完整对比
+- [直接认知神经科学 (Direct Recognition Neuroscience)](tables/Meditation_Direct_Recognition_Neuroscience.md) - 神经机制、脑区变化、脑波特征、神经递质、神经可塑性、直接与渐修神经对比
+- [直接认知评估与阶次 (Direct Recognition Assessment & Stages)](tables/Meditation_Direct_Recognition_Assessment_Stages.md) - 大圆满四相、大手印四瑜伽、禅宗阶次、吠檀多阶段、体验品质评估、自我评估工具
+- [直接认知历史源流 (Direct Recognition History & Lineage)](tables/Meditation_Direct_Recognition_History_Lineage.md) - 印度传统、克什米尔希瓦派、藏传大圆满/大手印、禅宗、现代不二运动传承脉络
+- [不二论：直接认知核心 (Direct Recognition Foundations)](tables/Meditation_Direct_Recognition_Foundations.md) - 觉知与显现辨析、不二机制、核心概念跨传统映射、存在论障碍
+- [不二论：各派技术地图 (Direct Recognition Traditions)](tables/Meditation_Direct_Recognition_Traditions.md) - 大圆满/大手印/不二论/禅宗/希瓦哲学技术对比、椎击三要、否定之道、现代导师
+- [直接认知：直指与现观技术 (Pointing-out & Direct Perception)](tables/Meditation_Direct_Recognition_Pointing_Out.md) - 直指方便本质、识别技术、间隙体验、导师引导流程
+- [直接认知疗愈与不二心理 (Direct Recognition Healing)](tables/Therapy_Direct_Recognition_Healing.md) - 无条件疗愈原则、身份化痛苦干预、临床整合、疗愈地图
+- [直接认知：日常整合与伦理 (Daily Integration & Ethics)](tables/Meditation_Direct_Recognition_Daily_Integration.md) - 后得位行住坐卧、不二论伦理、转化标志、十牛图整合
 
 **坛城冥想体系 (Mandala Meditation System):**
 - [坛城冥想概览 (Mandala Meditation Overview)](tables/Mandala_Meditation_Overview.md) - 核心术语、历史发展、理论基础、分类体系、坛城原理、与其他冥想对比
@@ -444,6 +484,7 @@
 - [日常修持与高阶协议 (Routine & Advanced Protocols)](tables/Daily_Routine_Protocols.md)
 - [进阶实践与女性视角 (Advanced Practices & Women)](tables/Daily_Advanced_Practices.md)
 - [核心文献、媒体与书籍 (Media & Books)](tables/Resources_Media_Books.md)
+- [TED演讲：身心疗愈资源库 (TED Talks: Mind-Body Healing Resources)](tables/TED_Talks_Healing_Resources.md)
 
 ### 18. 🆘 心理危机干预 (Psychological Crisis Intervention)
 **描述 (Description):** 系统化的心理危机干预知识体系，涵盖职场心理危机、青少年危机、自杀干预、危机评估工具及事后康复支持，整合循证干预方法与专业实践指南。
@@ -508,7 +549,7 @@
 | — | [自杀危机干预](tables/Suicide_Intervention.md), [危机评估工具](tables/Crisis_Assessment_Tools.md), [青少年危机干预](tables/Adolescent_Crisis_Intervention.md), [危机后干预与康复](tables/Crisis_Postvention.md) |
 
 ### B. 🛠️ 作用机制 (Modality / Mechanism)
-*   **心智认知 (Mind/Cognition):** [冥想核心](tables/Meditation_Core.md), [心理学理论](tables/Psychology_Theories_Experiments.md), [禅宗智慧](tables/Zen_Wisdom_Lineage.md), [法家管理心理](tables/Legalist_Management_Psychology.md), [直接认知](tables/Meditation_Direct_Recognition_Foundations.md), [克里希那穆提](tables/Krishnamurti_Teachings.md), [南怀瑾教导](tables/Nan_Huaijin_Teachings.md), [神经反馈](tables/Brain_EEG_Biofeedback.md), [恐惧症CBT认知重构](tables/Phobia_Treatment.md), [成瘾CBT与动机访谈](tables/Addiction_Treatment.md), [死亡观与向死而生](tables/Death_Existential_Psychology.md), [死亡焦虑概览](tables/Death_Anxiety_Overview.md), [死亡焦虑治疗](tables/Death_Anxiety_Treatment.md), [森田疗法](tables/Morita_Therapy.md), [正念日常](tables/Mindful_Daily_Living.md), [心理防御机制](tables/Psychological_Defense_Mechanisms.md), [藏传佛教心理学](tables/Tibetan_Buddhist_Psychology.md), [大圆满/佐钦](tables/Dzogchen_Great_Perfection.md), [慢性压力认知评价](tables/Chronic_Stress_Overview.md)
+*   **心智认知 (Mind/Cognition):** [冥想核心](tables/Meditation_Core.md), [心理学理论](tables/Psychology_Theories_Experiments.md), [禅宗智慧](tables/Zen_Wisdom_Lineage.md), [法家管理心理](tables/Legalist_Management_Psychology.md), [直接认知](tables/Meditation_Direct_Recognition_Foundations.md), [克里希那穆提](tables/Krishnamurti_Teachings.md), [南怀瑾教导](tables/Nan_Huaijin_Teachings.md), [神经反馈](tables/Brain_EEG_Biofeedback.md), [恐惧症CBT认知重构](tables/Phobia_Treatment.md), [成瘾CBT与动机访谈](tables/Addiction_Treatment.md), [死亡观与向死而生](tables/Death_Existential_Psychology.md), [死亡焦虑概览](tables/Death_Anxiety_Overview.md), [死亡焦虑治疗](tables/Death_Anxiety_Treatment.md), [森田疗法](tables/Morita_Therapy.md), [正念日常](tables/Mindful_Daily_Living.md), [心理防御机制](tables/Psychological_Defense_Mechanisms.md), [藏传佛教心理学](tables/Tibetan_Buddhist_Psychology.md), [大圆满/佐钦](tables/Dzogchen_Great_Perfection.md), [慢性压力认知评价](tables/Chronic_Stress_Overview.md), [TED讲座](tables/TED_Talks_Healing_Resources.md)
 *   **躯体运动 (Body/Movement):** [瑜伽体式](tables/Yoga_Asana_Pranayama.md), [东方内家运动](tables/Somatic_Movement_Oriental.md), [功能躯体运动](tables/Somatic_Movement_Functional.md), [拉伸疗法概览](tables/Stretch_Therapy_Overview.md), [拉伸生物力学](tables/Stretch_Biomechanics_Physiology.md), [拉伸方法与协议](tables/Stretch_Methods_Protocols.md), [拉伸临床应用](tables/Stretch_Clinical_Applications.md), [拉伸与运动整合](tables/Stretch_Integration_Movement.md), [森林浴行走](tables/Forest_Therapy_Tree_Hugging.md), [正念走路](tables/Mindful_Daily_Living.md)
 *   **息能量 (Breath/Energy):** [高阶呼吸](tables/Bio_Breathwork_Pranayama.md), [内丹进化](tables/Dao_Advanced_Internal_Alchemy.md), [专项音疗](tables/Sensory_Vibrational_Instruments.md), [呼吸放松技术](tables/Relaxation_Breathing.md), [那洛六法/气脉明点](tables/Six_Yogas_Naropa.md)
 *   **放松技术 (Relaxation):** [放松术概览](tables/Relaxation_Overview.md), [渐进性肌肉放松](tables/Relaxation_PMR.md), [自生训练](tables/Relaxation_Autogenic_Training.md), [呼吸放松](tables/Relaxation_Breathing.md), [引导意象](tables/Relaxation_Guided_Imagery.md), [应用性放松](tables/Relaxation_Applied_Training.md)
