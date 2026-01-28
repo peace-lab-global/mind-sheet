@@ -415,7 +415,7 @@
 - [临床方案与适应症 (Clinical Protocols)](classical-music/Classical_Music_Clinical_Protocols.md)
 - [音乐时期与风格特质 (Periods & Styles)](classical-music/Classical_Music_Periods_Styles.md)
 - [跨学科整合应用 (Integration with Modalities)](classical-music/Classical_Music_Integration.md)
-- [专业资源与参考 (Resources & References)](tables/Classical_Music_Resources.md)
+- [专业资源与参考 (Resources & References)](classical-music/Classical_Music_Resources.md)
 
 **作曲家专项疗愈 (Composer-Specific Therapy):**
 - [莫扎特音乐疗愈 (Mozart Music Therapy)](tables/Mozart_Music_Therapy.md) - 莫扎特效应、认知增强、纯净均衡
